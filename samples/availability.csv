@@ -1,0 +1,4 @@
+sku,channel,from,to,days,reason
+N1,market-a,2026-08-01,2026-08-31,24,stockout
+N1,store,2026-08-05,2026-08-31,27,active
+N2,live,2026-09-01,2026-09-30,18,late-listing
