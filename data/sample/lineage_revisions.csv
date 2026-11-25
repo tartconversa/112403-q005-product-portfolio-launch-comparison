@@ -1,0 +1,5 @@
+revision_id,sku,changed_on,from_predecessor,to_predecessor,decided_by,audience,note
+LR-01,SKU-FOUND-N,2026-11-18,,SKU-FOUND-O,周婕（彩妆品类）,混合偏油,品类会确认：新版承接旧版，配方与色号调整但客群一致
+LR-02,SKU-SERUM-N,2026-07-20,,SKU-SERUM-O,李蔓（护肤品类）,敏感肌修复,首次登记前代关系
+LR-03,SKU-WASH-N,2026-07-01,,SKU-WASH-O,吴桐（洗护品类）,油性头皮,首次登记前代关系
+LR-04,SKU-MEN-N,2026-09-01,,SKU-MEN-O,赵启（男士品类）,油性男士肌肤,首次登记前代关系

@@ -1,0 +1,12 @@
+sku,name,category,predecessor,variant_of,version,launch,launch_status,launch_confirmed_by,lineage_status,lineage_reason,audience,audience_confirmed_by,unit_margin,is_new,discontinue_on,note
+SKU-SERUM-N,焕活精华 第2代,护肤,SKU-SERUM-O,,v2,2026-08-01,confirmed,李蔓（护肤品类）,confirmed,2026-07-20 品类会确认承接,敏感肌修复,陈曦（客户洞察）,96,true,,主打屏障修复升级
+SKU-SERUM-O,焕活精华 第1代,护肤,,,v1,2025-02-01,confirmed,李蔓（护肤品类）,none,,敏感肌修复,陈曦（客户洞察）,88,false,2026-12-31,前代进入清货期
+SKU-FOUND-N,轻薄粉底液 新版,彩妆,,,v2,2026-09-01,confirmed,周婕（彩妆品类）,pending,前代承接关系尚未收到品类经理确认；配方与色号均调整,混合偏油,陈曦（客户洞察）,72,true,,
+SKU-FOUND-O,轻薄粉底液 旧版,彩妆,,,v1,2025-05-10,confirmed,周婕（彩妆品类）,none,,混合偏油,陈曦（客户洞察）,70,false,,
+SKU-WASH-N,氨基酸洗发水 补充装,洗护,SKU-WASH-O,,v2,2026-07-15,confirmed,吴桐（洗护品类）,confirmed,2026-07-01 品类会确认,油性头皮,陈曦（客户洞察）,45,true,,包装由瓶装改补充袋
+SKU-WASH-O,氨基酸洗发水 瓶装,洗护,,,v1,2025-03-01,confirmed,吴桐（洗护品类）,none,,油性头皮,陈曦（客户洞察）,47,false,,
+SKU-MEN-N,男士控油乳液 升级版,男士,SKU-MEN-O,,v2,2026-09-20,confirmed,赵启（男士品类）,confirmed,2026-09-01 品类会确认,油性男士肌肤,陈曦（客户洞察）,80,true,,上市后两周内两次缺货
+SKU-MEN-O,男士控油乳液,男士,,,v1,2025-06-01,confirmed,赵启（男士品类）,none,,油性男士肌肤,陈曦（客户洞察）,78,false,,
+SKU-SET-N,修护礼盒,护肤,SKU-SERUM-N,,v1,2026-10-05,provisional,未确认,none,组合装，不设前代,敏感肌修复,陈曦（客户洞察）,120,true,,组合装，上市日期与铺货口径待确认
+SKU-WASH2-N,氨基酸洗发水 清爽型,洗护,SKU-WASH-O,,v2,2026-08-20,confirmed,吴桐（洗护品类）,confirmed,2026-08-05 品类会确认与瓶装的关系,油性头皮,陈曦（客户洞察）,44,true,,同品类并行新品，作为对照
+SKU-WASH3-N,氨基酸洗发水 旅行装,洗护,,SKU-WASH-N,v1,2026-06-10,confirmed,吴桐（洗护品类）,none,同系列衍生规格，无独立前代,油性头皮,陈曦（客户洞察）,30,true,,小规格拉新，毛利低

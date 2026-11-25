@@ -1,0 +1,24 @@
+sku,channel,from,to,listed,days,reason,stock_status,oos_from,oos_to,oos_days,notes,source,added_on,confirmed_by
+SKU-SERUM-N,store,2026-08-01,2026-10-31,2026-08-03,,active,in_stock,,,,门店首批铺货略晚,pos-export,2026-10-31,王蕾（渠道运营）
+SKU-SERUM-N,tmall,2026-08-01,2026-10-31,2026-08-01,,active,in_stock,2026-09-05,2026-09-11,,第二周补货断档,tmall-api,2026-10-31,王蕾（渠道运营）
+SKU-SERUM-N,douyin,2026-08-10,2026-10-31,2026-08-10,,late-listing,in_stock,,,,直播渠道 8/10 才开播,douyin-api,2026-10-31,王蕾（渠道运营）
+SKU-SERUM-O,store,2025-02-01,2026-12-31,2025-02-01,,active,in_stock,,,,,pos-export,2026-10-31,王蕾（渠道运营）
+SKU-SERUM-O,tmall,2025-02-01,2026-12-31,2025-02-01,,active,in_stock,,,,,tmall-api,2026-10-31,王蕾（渠道运营）
+SKU-FOUND-N,store,2026-09-01,2026-11-30,2026-09-01,,active,in_stock,,,,,pos-export,2026-10-31,沈舟（线上运营）
+SKU-FOUND-N,tmall,2026-09-01,2026-11-30,2026-09-01,,active,unknown,,,,库存同步缺失，门店与线上可售未核实,tmall-api,2026-10-31,沈舟（线上运营）
+SKU-FOUND-N,tmall,2026-09-01,2026-11-30,2026-09-01,,active,in_stock,2026-10-02,2026-10-08,,补录：后台对账确认 10/2–10/8 缺货,tmall-api,2026-11-20,沈舟（线上运营）
+SKU-FOUND-O,store,2025-05-10,2026-12-31,2025-05-10,,active,in_stock,,,,,pos-export,2026-10-31,沈舟（线上运营）
+SKU-FOUND-O,tmall,2025-05-10,2026-12-31,2025-05-10,,active,in_stock,,,,,tmall-api,2026-10-31,沈舟（线上运营）
+SKU-WASH-N,store,2026-07-15,2026-11-30,2026-07-20,,active,in_stock,,,,,pos-export,2026-10-31,许岑（渠道运营）
+SKU-WASH-N,tmall,2026-07-15,2026-11-30,2026-07-15,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）
+SKU-WASH-O,store,2025-03-01,2026-12-31,2025-03-01,,active,in_stock,,,,,pos-export,2026-10-31,许岑（渠道运营）
+SKU-WASH-O,tmall,2025-03-01,2026-12-31,2025-03-01,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）
+SKU-MEN-N,store,2026-09-20,2026-12-15,2026-09-20,,active,in_stock,2026-09-28,2026-10-19,,连续三周缺货,pos-export,2026-10-31,许岑（渠道运营）
+SKU-MEN-N,tmall,2026-09-20,2026-12-15,2026-09-25,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）
+SKU-MEN-O,store,2025-06-01,2026-12-31,2025-06-01,,active,in_stock,,,,,pos-export,2026-10-31,许岑（渠道运营）
+SKU-MEN-O,tmall,2025-06-01,2026-12-31,2025-06-01,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）
+SKU-SET-N,store,2026-10-05,2026-12-31,2026-10-05,,bundle,in_stock,,,,礼盒装，常与精华捆绑,pos-export,2026-10-31,
+SKU-WASH2-N,store,2026-08-20,2026-11-30,2026-08-20,,active,in_stock,,,,,pos-export,2026-10-31,许岑（渠道运营）
+SKU-WASH2-N,tmall,2026-08-20,2026-11-30,2026-08-22,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）
+SKU-WASH3-N,store,2026-06-10,2026-11-30,2026-06-12,,active,in_stock,,,,,pos-export,2026-10-31,许岑（渠道运营）
+SKU-WASH3-N,tmall,2026-06-10,2026-11-30,2026-06-10,,active,in_stock,,,,,tmall-api,2026-10-31,许岑（渠道运营）

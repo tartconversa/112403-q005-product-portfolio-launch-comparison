@@ -1,0 +1,11 @@
+plan_id,sku,stage,channel,amount,start,end,status,signed_on,note
+CP-1001,SKU-SERUM-N,early,douyin,180000,2026-08-01,2026-08-31,signed,2026-07-15,上市首月直播+达人
+CP-1002,SKU-SERUM-N,sustain,tmall,60000,2026-09-15,2026-10-15,approved,2026-08-20,复购期站内内容
+CP-1003,SKU-FOUND-N,early,douyin,95000,2026-09-01,2026-09-30,signed,2026-08-10,彩妆达人评测
+CP-1004,SKU-WASH-N,early,tmall,45000,2026-07-15,2026-08-14,signed,2026-06-30,补充装环保主题
+CP-1005,SKU-MEN-N,early,douyin,70000,2026-09-20,2026-10-20,signed,2026-09-01,男士控油主题
+CP-1006,SKU-SERUM-N,sustain,douyin,30000,2026-10-20,2026-11-20,proposed,,待评审的追加
+CP-1007,SKU-WASH-N,sustain,douyin,25000,2026-09-01,2026-09-30,proposed,,待评审的追加
+CP-1008,SKU-MEN-N,sustain,tmall,30000,2026-11-01,2026-11-30,proposed,,待评审的追加
+CP-1009,SKU-SERUM-O,clearance,tmall,20000,2026-10-01,2026-10-31,signed,2026-09-05,前代清货内容
+CP-1010,SKU-FOUND-N,sustain,tmall,20000,2026-11-01,2026-11-30,signed,2026-10-20,双十一返场内容

@@ -10,3 +10,5 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+# 本地决定台账（运行时生成）
+data/decisions.jsonl

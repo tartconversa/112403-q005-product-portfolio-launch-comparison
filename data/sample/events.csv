@@ -1,0 +1,4 @@
+sku,event_type,from_version,to_version,effective_on,gap_days,changed,confirmed,note
+SKU-SERUM-N,formula,v2.0,v2.1,2026-09-06,0,both,true,9 月微调防腐体系，功效不变
+SKU-MEN-N,packaging,v2.0,v2.1,2026-10-22,0,packaging,false,包装供应商切换，尚未确认是否影响外观
+SKU-FOUND-N,formula,v2.0,v2.0,2026-09-15,0,formulation,true,9/15 起配方确实调整（防腐体系），色号不变
